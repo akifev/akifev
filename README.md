@@ -1,1 +1,2 @@
-![Label](label.png)
+![Label](label2.png)
+
