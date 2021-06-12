@@ -1,2 +1,2 @@
-![Label](AlmostBlack-2.png)
+![Label](AlmostBlack-3.png)
 
