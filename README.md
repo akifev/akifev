@@ -1,2 +1,2 @@
-![Hello, world!](logo/AlmostBlack.png)
+![Hello, world!](logo/Gray.png)
 
