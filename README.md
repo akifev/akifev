@@ -1,2 +1,2 @@
-![Label](AlmostBlack-3.png)
+![Hello, world!](logo/Black.png)
 
