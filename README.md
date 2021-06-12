@@ -1,1 +1,2 @@
-<img height="400" src="Gray.png" alt="logo">
+![Label](AlmostBlack-2.png)
+
